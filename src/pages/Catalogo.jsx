@@ -78,7 +78,7 @@ function Catalogo() {
         <div className="container position-relative">
           {/* LOGO */}
           <a className="navbar-brand logo" href="/">
-            FERRECENTER
+            FERRVICENTER
           </a>
 
           {/* BOTÓN CELULAR */}
