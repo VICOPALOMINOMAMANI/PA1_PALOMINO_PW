@@ -83,7 +83,7 @@ function App() {
       <nav className="navbar navbar-expand-lg navbar-dark main-navbar sticky-top">
         <div className="container position-relative">
           <a className="navbar-brand logo" href="#">
-            FERRECENTER
+            FERRVICENTER
           </a>
           <button
             className="navbar-toggler"
@@ -338,10 +338,10 @@ function App() {
             </p>
             <div className="contact-info">
               <p>
-                <i className="bi bi-telephone-fill"></i> +51 999 999 999
+                <i className="bi bi-telephone-fill"></i> +51 987458965
               </p>
               <p>
-                <i className="bi bi-envelope-fill"></i> contacto@ferrecenter.com
+                <i className="bi bi-envelope-fill"></i> contacto@ferrvicenter.com
               </p>
             </div>
           </div>
@@ -383,7 +383,7 @@ function App() {
         <div className="container">
           <div className="row">
             <div className="col-md-4 mb-4">
-              <h4>FERRECENTER</h4>
+              <h4>FERRVICENTER</h4>
               <p>
                 Tu tienda online de herramientas y construcción.
               </p>
@@ -407,7 +407,7 @@ function App() {
           </div>
           <hr />
           <p className="text-center mb-0">
-            2026 FERRECENTER - Todos los derechos reservados
+            2026 FERRVICENTER - Todos los derechos reservados
           </p>
         </div>
       </footer>
